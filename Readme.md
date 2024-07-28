@@ -46,3 +46,6 @@ TOV - Turnovers; the number of times a player loses possession of the ball to th
 PF - Personal Fouls; the number of personal fouls a player has committed.
 PTS - Points; the total number of points a player has scored.
 Player-additional - This might contain additional data about the player that does not fit into the other categories, such as comments or special achievements.
+
+## Link To Dataset
+#### https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular
